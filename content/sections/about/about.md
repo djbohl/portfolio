@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/techgirl.jpg"
+imageAlt: "Image of tech girl by brgfx on Freepik"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello, my name is Donna Bohl. I'm a Front-End Developer and Designer.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I need to come up with a summary about my work and whatnot.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+ <a href="https://www.freepik.com/free-vector/girl-using-laptop-cartoon_32478805.htm#page=3&query=technology%20girl&position=36&from_view=keyword" target="_blank" rel="nofollow noopener noreferrer">

@@ -1,58 +1,142 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Web Development",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "UI Design",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Animation",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Graphic Design",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Interaction Design",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "HTML5",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "JavaScript(ES6)",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "CSS/SCSS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GraphQl",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JSON",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JQuery",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Jekyll",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Figma",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Adobe Creative Cloud",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "and more...",
+      "image": {
+        "src": "",
         "alt": ""
       }
     }
@@ -60,6 +144,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 10
   }
 }

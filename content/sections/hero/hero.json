@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hi",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,12 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Donna Bohl",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Designer and Developer ",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a front-end developer with a passion for design, specializing in creating unique digital experiences.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
