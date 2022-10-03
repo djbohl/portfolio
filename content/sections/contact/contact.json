@@ -3,11 +3,11 @@
   "email": "donnabohl@donnajo.dev",
   "description": "Want to hire me, collaborate or just talk?",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/largelogo.png",
+    "alt": "Donna Bohl Logo"
   },
   "socialProfiles": {
-    "from": ["Twitter", "Github", "Mail"],
+    "from": ["Twitter", "Linkedin", "Github", "Mail"],
     "showIcons": true
   }
 }
