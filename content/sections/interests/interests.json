@@ -1,41 +1,6 @@
 {
   "interests": [
     {
-      "label": "Web Development",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "UI Design",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animation",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Graphic Design",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Interaction Design",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
       "label": "HTML5",
       "image": {
         "src": "",
@@ -51,6 +16,13 @@
     },
     {
       "label": "CSS/SCSS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Bootstrap",
       "image": {
         "src": "",
         "alt": ""
@@ -134,7 +106,7 @@
       }
     },
     {
-      "label": "and more...",
+      "label": "VSCode",
       "image": {
         "src": "",
         "alt": ""
