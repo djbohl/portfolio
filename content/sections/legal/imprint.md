@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Donna-Jo Bohl<br />
+N/A<br />
+Pittsburgh<br />
+Pennsylvania
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>DonnaBohl@DonnaBohl.Dev</u>
 
 ---
 
