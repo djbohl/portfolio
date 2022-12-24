@@ -36,21 +36,21 @@
       }
     },
     {
-      "label": "JSON",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "SQL",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
       "label": "React.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Next.js",
       "image": {
         "src": "",
         "alt": ""
@@ -64,7 +64,7 @@
       }
     },
     {
-      "label": "Node.js",
+      "label": "SQL",
       "image": {
         "src": "",
         "alt": ""
@@ -85,28 +85,28 @@
       }
     },
     {
-      "label": "Jekyll",
+      "label": "Vercel",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Figma",
+      "label": "JQuery",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Adobe Creative Cloud",
+      "label": "Netlify",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "VSCode",
+      "label": "JSON",
       "image": {
         "src": "",
         "alt": ""

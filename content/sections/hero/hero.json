@@ -10,10 +10,10 @@
   },
   "title": "I'm Donna Bohl",
   "subtitle": {
-    "prefix": "Designer and Developer ",
+    "prefix": "Front-End Developer ",
     "suffix": "."
   },
-  "description": "I'm a front-end developer with a passion for design, specializing in creating unique digital experiences.",
+  "description": "I develop and design modern, responsive, interactive websites and applications",
   "socialProfiles": {
     "from": ["LinkedIn", "Twitter", "Github", "Mail"],
     "showIcons": false

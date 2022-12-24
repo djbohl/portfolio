@@ -3,8 +3,8 @@ imageSrc: ""
 imageAlt: ""
 ---
 
-Hello, my name is Donna Bohl. I'm self-taught Front-End Developer with design skills.
+Hi, I'm Donna Bohl. Front-End Developer.
 
-I develop and design responsive and interactive experiences.
+I develop and design modern, responsive, interactive websites and applications.
  
  <a href="">
